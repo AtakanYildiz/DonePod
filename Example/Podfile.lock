@@ -1,0 +1,14 @@
+PODS:
+  - DonePod (0.1.0)
+
+DEPENDENCIES:
+  - DonePod (from `../`)
+
+EXTERNAL SOURCES:
+  DonePod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DonePod: 875623e4e07f0ecad70af1c72e811c369c13e3d9
+
+COCOAPODS: 0.39.0

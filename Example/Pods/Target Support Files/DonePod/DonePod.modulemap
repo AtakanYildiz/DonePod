@@ -1,0 +1,6 @@
+framework module DonePod {
+  umbrella header "DonePod-umbrella.h"
+
+  export *
+  module * { export * }
+}
