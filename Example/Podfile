@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DonePod_Example', :exclusive => true do
+  pod 'DonePod', :path => '../'
+end
+
+target 'DonePod_Tests', :exclusive => true do
+  pod 'DonePod', :path => '../'
+
+  
+end
